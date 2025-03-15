@@ -62,7 +62,7 @@ export default function SentimentAnalyzer() {
     setLoading(true);
     
     try {
-      const response = await axios.post("http://127.0.0.1:5000/predict", { text });
+      const response = await axios.post("https://sentiment-analyzer-backend-195n.onrender.com/predict", { text });
       setSentiment(response.data.sentiment);
     } catch (error) {
       console.error("Error fetching sentiment:", error);
