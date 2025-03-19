@@ -37,6 +37,7 @@ def predict():
     processed_text = stemming(text)
     text_vector = vectorizer.transform([processed_text])
     prediction = model.predict(text_vector)[0]
+    
 
     return jsonify({"sentiment": str(prediction)})
 
