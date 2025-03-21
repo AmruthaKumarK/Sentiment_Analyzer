@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Sanskar Bajaj** - [GitHub](https://github.com/SanskarBajaj123)
-**Amrutha K** - [GitHub](https://github.com/AmruthaKumarK)
-**Astha Pathak** - [GitHub](https://github.com/Astha-Pathak)
+- **Sanskar Bajaj** - [GitHub](https://github.com/SanskarBajaj123)
+- **Amrutha K** - [GitHub](https://github.com/AmruthaKumarK)
+- **Astha Pathak** - [GitHub](https://github.com/Astha-Pathak)
 
