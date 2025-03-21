@@ -166,7 +166,7 @@ export default function SentimentAnalyzer() {
         
         <div className="footer">
           <p>Powered by Machine Learning</p>
-          <p>Made By Sanskar</p>
+          <p>Made By Sanskar, Astha, Amrutha</p>
         </div>
       </div>
     </div>
