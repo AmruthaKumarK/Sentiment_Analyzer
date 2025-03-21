@@ -11,7 +11,8 @@
 
 **Sentiment Analyzer** is an intuitive web application that uses natural language processing and machine learning to determine if text expresses positive or negative sentiment. Trained on Twitter data, it accurately captures the emotional tone behind words.
 
-![image](https://github.com/user-attachments/assets/2d292791-f252-4769-a734-80565ba71e15)
+![image](https://github.com/user-attachments/assets/36571ee9-60e6-488a-a797-80ef75c877aa)
+
 
 ## ✨ Features
 
